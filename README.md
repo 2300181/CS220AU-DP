@@ -27,11 +27,11 @@ Instructions on using this GitHub repository as a template for your assignment w
 3. Find other articles to emphasize the subject (like proofs...)
 
 ## Log
-- 2023-10-13 - W3 seminar where we set up the GiHub accounts and two repositories.
-- 2023-10-19 - I watched the third video as Kris asked us.
-- 2023-10-20 - I went to the introduction class and the week 2 seminar where Kris explained the assignment brief and introduced us to the visitor and residents method for us to analyse our engagement with the web with.
-- 2023-10-27 - We created the website with a good password and Kris explained how to edit it and personalise it. I also shared the subject I wanted to choose.
-- 2023-11-03 - We discussed how to create the content we'll put in our essay (how to use pictures and licence...).
-- 2023-11-08 - I did some research on the subject I wanted to choose and found the article.
-- 2023-11-09 - I found my new subject.
 - 2023-11-10 - 
+- 2023-11-09 - I found my new subject.
+- 2023-11-08 - I did some research on the subject I wanted to choose and found the article.
+- 2023-11-03 - We discussed how to create the content we'll put in our essay (how to use pictures and licence...).
+- 2023-10-27 - We discussed how to approach our subject and how to analyse it properly, for example with the Agile Project Management.
+- 2023-10-20 - We set up the GiHub accounts with a good password and created two repositories. And Kris explained how to edit it and personalise it. I also shared the subject I wanted to choose.
+- 2023-10-19 - I watched the third video as Kris asked us.
+- 2023-10-13 - I went to the introduction class and the week 2 seminar where Kris explained the assignment brief and introduced us to the visitor and residents method for us to analyse our engagement with the web with.
