@@ -27,7 +27,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 3. Find other articles to emphasize the subject (like proofs...)
 
 ## Log
-- 2023-10-13 - W3 seminare where we set up the GiHub accounts and two repositories.
+- 2023-10-13 - W3 seminar where we set up the GiHub accounts and two repositories.
 - 2023-10-19 - I watched the third video as Kris asked us.
 - 2023-10-20 - I went to the introduction class and the week 2 seminar where Kris explained the assignment brief and introduced us to the visitor and residents method for us to analyse our engagement with the web with.
 - 2023-10-27 - We created the website with a good password and Kris explained how to edit it and personalise it. I also shared the subject I wanted to choose.
