@@ -27,7 +27,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 3. Find other articles to emphasize the subject (like proofs...)
 
 ## Log
-- 2023-11-10 - 
+- 2023-11-10 - We did a little presentation of what we did and what we have to do.
 - 2023-11-09 - I found my new subject.
 - 2023-11-08 - I did some research on the subject I wanted to choose and found the article.
 - 2023-11-03 - We discussed how to create the content we'll put in our essay (how to use pictures and licence...).
