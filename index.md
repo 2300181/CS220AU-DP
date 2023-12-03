@@ -16,7 +16,7 @@ This scandal has highlighted the potential dangers to democracy and human rights
 It should be noted that this problem is not limited to a single company. States, such as China, can use companies for surveillance purposes, which may also endanger some rights.
 
 ## China & the Social Credit System
-### What it consist
+### What it consists
 Officially announced in 2014, China's Social Credit System is a government-run system to monitor and evaluate the conduct of individuals and companies aimed at "creating a more harmonious and stable society by encouraging positive behaviour and discouraging negative behaviour" (HROne).  
 This system consists of evaluating individuals by awarding points based on their behaviour. The credit points accumulated offer advantages, such as an easier access to credit or to employment. On the other hand, those with a low credit score may face sanctions, such as being refused access to certain services such as travel, education or healthcare.  
 Data collection is the foundation of this system. Information is gathered from a variety of sources, including government agencies and social media platforms. These data are then used to assign a credit rating. To facilitate the rating process, the Chinese government plans to install more than 600 million surveillance cameras.
