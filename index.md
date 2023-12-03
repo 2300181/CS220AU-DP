@@ -15,3 +15,6 @@ It is also worth mentioning the Facebook-Cambridge Analytica scandal in 2018, wh
 This scandal has highlighted the potential dangers to democracy and human rights posed by unregulated data collection. 
 It should be noted that this problem is not limited to a single company. States, such as China, can use companies for surveillance purposes, which may also endanger some rights.
 
+## China & the Social Credit System
+
+
