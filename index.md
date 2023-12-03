@@ -7,7 +7,7 @@ keywords:
 ## Introduction
 Nowadays, our increasing online engagement leads most individuals to expose their personal information to the world, often without full awareness of the consequences that may follow. Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the state, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world, which is tending towards a dystopia.  
 
-## The ambiguity of our data use
+## The Ambiguity of our Data Use
 
 Personal data includes details such as a person's name, age or e-mail address, and can be used to identify an individual. Each country generally has its own legislation regulating data collection. Most governments claim to use our personal data for research purposes, particularly in the context of the pandemic, where the use of personal data enabled many countries to map the spread of the virus.  
 However, this practice can quickly become confusing, particularly with platforms such as TikTok. In exchange for using the platform, users provide a great deal of personal data. Western governments are more and more concerned about the possibility of the Chinese government gaining access to these data.  
