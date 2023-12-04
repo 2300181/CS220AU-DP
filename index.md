@@ -13,6 +13,7 @@ Personal data includes details such as a person's name, age or e-mail address, a
 
 However, this practice can quickly become confusing. It is worth mentioning the Facebook-Cambridge Analytica scandal in 2018, where data collected without user consent was used to profile and target voters for the benefit of former US President Donald Trump during his victorious 2016 presidential campaign.  
 This scandal has highlighted the potential dangers to democracy and human rights posed by unregulated data collection.   
+
 It should be noted that this problem is not limited to a single company. States, such as China, can use companies for surveillance purposes, which may also endanger some rights.
 
 ## China & the Social Credit System
