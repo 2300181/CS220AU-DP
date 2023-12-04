@@ -29,4 +29,12 @@ According to the New York Times, "the number of countries with political disinfo
 ## Where Can This Lead Us?
 This is currently happening in China, where discrimination against a specific group is already apparent. Although the risk currently concerns a particular group, it could eventually spread to a wider group. Let's imagine that the Chinese government actually exploited this system to propagate its communist ideas. What if they decided to use social media to influence an even wider audience? Western governments are already expressing concern about the Chinese government's ability to access TikTok user data, a concern that has led the United States to ban the application from its soil.  
 
-##
+## Conclusion
+blabla
+### Recommendations
+blabla
+
+## Image credits
+
+## References
+
