@@ -22,10 +22,12 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. 
+1. Find illustrations
+2. 
 
 ## Log
-- 2023-12-03 - 
+- 2023-12-04 - I continued to write. 
+- 2023-12-03 - I searched new sources to my essay and started to write the core
 - 2023-12-01 - We presented to the class what we had done from now. 
 - 2023-11-24 - I started to create my plan and find sources that are accurate.
 - 2023-11-10 - We did a little presentation of what we did and what we have to do.
