@@ -23,10 +23,11 @@ Instructions on using this GitHub repository as a template for your assignment w
 
 ## Tasks
 1. Find illustrations
-2. 
+2. Add my references
+3. Check again my writing
 
 ## Log
-- 2023-12-04 - I continued to write. 
+- 2023-12-04 - I continued to write and finished my v.01
 - 2023-12-03 - I searched new sources to my essay and started to write the core
 - 2023-12-01 - We presented to the class what we had done from now. 
 - 2023-11-24 - I started to create my plan and find sources that are accurate.
