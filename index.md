@@ -35,9 +35,15 @@ This is currently happening in China, where discrimination against a specific gr
 A more current example is Israel, which in 2016 launched the "Blue Wolf" technology. This captures images of Palestinians and then matches them with a database held by the Israeli army and intelligence services. Using facial recognition, the Israeli government can identify any individual of Palestinian origin. We are aware of the ongoing genocide in Palestine. Facial recognition could therefore potentially be used as a tool by the government to eliminate all Palestinians identified by surveillance cameras, thereby contributing to the eradication of this community.  
 
 ## Conclusion
-blabla
+The widespread use of personal data by governments for surveillance purposes raises major concerns about privacy, individual rights and the potential risks of abuse of power.  
+Regulations must be introduced to regulate the way governments collect, store and use personal data. Without appropriate measures, mass surveillance can easily lead to dystopian scenarios where privacy becomes a relic of the past and political manipulation flourishes.
+
 ### Recommendations
-blabla
+As individuals, there are a number of things we can do to reduce its potential abuse: 
+-	Be aware of the privacy policies of the online platforms we use
+-	Favour security options such as two-factor authentication
+-	Encourage the introduction of stricter regulations on the collection and use of data by governments
+
 
 ## Image credits
 
