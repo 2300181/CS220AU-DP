@@ -28,6 +28,7 @@ According to the New York Times, "the number of countries with political disinfo
 
 ## Where Can This Lead Us?
 This is currently happening in China, where discrimination against a specific group is already apparent. Although the risk currently concerns a particular group, it could eventually spread to a wider group. Let's imagine that the Chinese government actually exploited this system to propagate its communist ideas. What if they decided to use social media to influence an even wider audience? Western governments are already expressing concern about the Chinese government's ability to access TikTok user data, a concern that has led the United States to ban the application from its soil.  
+A more current example is Israel, which in 2016 launched the "Blue Wolf" technology. This captures images of Palestinians and then matches them with a database held by the Israeli army and intelligence services. Using facial recognition, the Israeli government can identify any individual of Palestinian origin. We are aware of the ongoing genocide in Palestine. Facial recognition could therefore potentially be used as a tool by the government to eliminate all Palestinians identified by surveillance cameras, thereby contributing to the eradication of this community.  
 
 ## Conclusion
 blabla
