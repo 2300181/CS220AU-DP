@@ -27,6 +27,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 3. Check again my writing
 
 ## Log
+- 2023-12-13 - I added my renferences and changed some things
 - 2023-12-04 - I continued to write and finished my v.01
 - 2023-12-03 - I searched new sources to my essay and started to write the core
 - 2023-12-01 - We presented to the class what we had done from now. 
