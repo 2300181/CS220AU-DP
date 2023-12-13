@@ -9,10 +9,10 @@ Nowadays, our increasing online engagement leads most individuals to expose some
 
 ## The Ambiguity of our Data Use
 
-Personal data includes details such as a person's name, age or e-mail address, and can be used to identify an individual. Each country generally has its own legislation regulating data collection. As stated in the "The Conversation" article, most governments claim to use our personal data for research purposes, “leading to new knowledge about health, diseases and effective services to promote and support the development of individuals and communities”. Particularly in the context of the pandemic, where the use of personal data enabled many countries to map the spread of the virus.  
+Personal data includes details such as a person's name, age or e-mail address, and can be used to identify an individual. Each country generally has its own legislation regulating data collection. According to an article from "The Conversation", most governments claim to use our personal data for research purposes, “leading to new knowledge about health, diseases and effective services to promote and support the development of individuals and communities”. Particularly in the context of the pandemic, where the use of personal data enabled many countries to map the spread of the virus. 
 
-However, this practice can quickly become confusing. It is worth mentioning the Facebook-Cambridge Analytica scandal in 2018, where data collected without user consent was used to profile and target voters for the benefit of former US President Donald Trump during his victorious 2016 presidential campaign.  
-The documentary film “The Great Hack” on Netflix analysed the scandal and has highlighted the potential dangers to democracy and human rights posed by unregulated data collection. 
+However, this practice can quickly become confusing. It is worth mentioning the Facebook-Cambridge Analytica scandal in 2018, where data collected without user consent was used to profile and target voters for the benefit of former US President Donald Trump during his victorious 2016 presidential campaign.
+The documentary film “The Great Hack” available on Netflix thoroughly analyses this scandal, shedding light on the potential dangers to democracy and human rights posed by unregulated data collection.  
 
 It should be noted that this problem is not limited to a single company. States, such as China, can use companies for surveillance purposes, which may also endanger some rights.
 
