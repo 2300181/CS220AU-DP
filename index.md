@@ -14,7 +14,8 @@ Personal data includes details such as a person's name, age or e-mail address, a
 However, this practice can quickly become confusing. It is worth mentioning the Facebook-Cambridge Analytica scandal in 2018, where data collected without user consent was used to profile and target voters for the benefit of former US President Donald Trump during his victorious 2016 presidential campaign.  
 The documentary film “The Great Hack” available on Netflix thoroughly analyses this scandal, shedding light on the potential dangers to democracy and human rights posed by unregulated data collection.  
 
-It should be noted that this problem is not limited to a single company. States, such as China, can use companies for surveillance purposes, which may also endanger some rights.
+It should be noted that this problem is not limited to a single company, but also governments, which use companies to obtain personal data. A good example is the US government, which collects personal data from its citizens. According to an article published in Sciences et Avenir, a French popular science magazine, many government agencies sign contracts with private companies to collect personal data. The article mentions collaborations such as between the Defence Intelligence Agency and LexisNexis, as well as agreements between the Navy and a company called Sayari Analytics. The US government's purchases reveal sensitive data on millions of people, such as private life, social class and political opinions. This demonstrates that governments can use our personal data for purposes other than those often proclaimed to be "for our own good".  
+However, our attention will shift to a specific country, China, which utilises companies for surveillance purposes, potentially compromising certain rights.
 
 ## China & the Social Credit System
 ### What it consists
