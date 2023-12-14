@@ -1,6 +1,6 @@
 # How the Government Can Use our Personal Data to Spy on Us ?
 v.02  
-13.12.23
+14.12.23
 
 keywords: digital identity, personal data, mass surveillance, government surveillance, existencial risks
 
