@@ -21,6 +21,7 @@ However, our attention will shift to a specific country, China, which utilises c
 ## China & the Social Credit System
 ### What it consists
 Officially announced in 2014, China's Social Credit System is a government-run system to monitor and evaluate the conduct of individuals and companies aimed at "creating a more harmonious and stable society by encouraging positive behaviour and discouraging negative behaviour" (HROne).    
+
 This system consists of evaluating individuals by awarding points based on their behaviour. The credit points accumulated offer advantages, such as an easier access to credit or to employment. On the other hand, those with a low credit score may face sanctions, such as being refused access to certain services such as travel, education, or healthcare. The Chinese government's press agency, Global Times, recently stated that 11 million people had been prevented from flying and 4.5 million from taking the train.  
 
 Data collection is the foundation of this system. Information is gathered from a variety of sources, including government agencies and social media platforms. These data are then used to assign a credit rating. To facilitate the rating process, the Chinese government plans to install more than 600 million surveillance cameras (RTS).  
