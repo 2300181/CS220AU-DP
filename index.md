@@ -25,6 +25,7 @@ Officially announced in 2014, China's Social Credit System is a government-run s
 This system consists of evaluating individuals by awarding points based on their behaviour. The credit points accumulated offer advantages, such as an easier access to credit or to employment. On the other hand, those with a low credit score may face sanctions, such as being refused access to certain services such as travel, education, or healthcare. The Chinese government's press agency, Global Times, recently stated that 11 million people had been prevented from flying and 4.5 million from taking the train.  
 
 Data collection is the foundation of this system. Information is gathered from a variety of sources, including government agencies and social media platforms. These data are then used to assign a credit rating. To facilitate the rating process, the Chinese government plans to install more than 600 million surveillance cameras (RTS).  
+
 Since 2014, China had only been experimenting with this project, but the experiment was considered conclusive: since 2020, it has been applied throughout the country, "subjecting 1.4 billion people to the world's first digital dictatorship" (Bon pour la tête).  
 
 ### An Abuse of Power
