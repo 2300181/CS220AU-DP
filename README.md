@@ -22,9 +22,8 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. Find illustrations
-2. Add my references
-3. Check again my writing
+1. Find references for existential risks
+2. Find illustrations
 
 ## Log
 - 2023-12-14 - I continued to write my essay and tried to find references for existential risks
