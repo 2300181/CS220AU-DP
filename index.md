@@ -67,4 +67,16 @@ As individuals, there are a number of things we can do to reduce its potential a
 ## Image credits
 
 ## References
+-	Redden, A. (2023, October 10). Companies are collecting your personal data. Here’s what you need to know. Euronews. https://www.euronews.com/next/2023/08/14/companies-are-collecting-your-personal-data-heres-what-to-know  
+-	Teng, J. (2019, July 31). Data collected by governments can be useful to researchers, but only when accessed carefully. The Conversation. https://theconversation.com/data-collected-by-governments-can-be-useful-to-researchers-but-only-when-accessed-carefully-116579  
+-	The Great Hack. (2019, July 24). [Video]. Netflix. https://www.netflix.com/title/80117542  
+-	Da Ponte, M. (2023, June 16). Le gouvernement américain collecte des données personnelles de ses citoyens. Sciences Et Avenir. https://www.sciencesetavenir.fr/high-tech/data/le-gouvernement-americain-collecte-des-donnees-personnelles-de-ses-citoyens_171977  
+-	ZhaoZhao, M. (2023, August 23). Powerful China Social Credit System: A Guide in 2023. HROne. https://www.hrone.com/blog/china-social-credit-system/  
+-	R.T. Suisse. (2021, November 18). La Chine veut noter tous ses habitants et installe 600 millions de caméras. rts.ch. https://www.rts.ch/info/monde/11137943-la-chine-veut-noter-tous-ses-habitants-et-installe-600-millions-de-cameras.html  
+-	Louvet, S. (2020). Tous surveillés : 7 milliards de suspects [Video]. ARTE. https://educ.arte.tv/program/tous-surveilles-7-milliards-de-suspects 
+-	Rey, L. (2022, May 13). Venu de Chine, le crédit social se répand en Europe. Bon Pour La Tête. https://bonpourlatete.com/actuel/venu-de-chine-le-credit-social-se-repend-en-europe  
+-	Alba, D., & Satariano, A. (2019, September 26). At least 70 countries have had disinformation campaigns, study finds. The New York Times. https://www.nytimes.com/2019/09/26/technology/government-disinformation-cyber-troops.html  
+-	Ouïghours en Chine : qui sont-ils et pourquoi Pékin est-il accusé de génocide ? (2022, May 30). BBC News Afrique. https://www.bbc.com/afrique/monde-61583982 
+- REYHAN Dilnur, « Génocide ouïghour : cheminement d’un projet colonial », Monde chinois, 2021/1 (N° 65), p. 9-22. URL : https://www.cairn.info/revue-monde-chinois-2021-1-page-9.htm  
+-	Blue Wolf, l’application utilisée par Israël pour espionner les Palestiniens en Cisjordanie occupée. (n.d.). Association France Palestine Solidarité. https://www.france-palestine.org/Blue-Wolf-l-application-utilisee-par-Israel-pour-espionner-les-Palestiniens-en   
 
