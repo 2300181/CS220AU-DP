@@ -5,7 +5,8 @@ v.02
 keywords: digital identity, personal data, mass surveillance, government surveillance, existencial risks
 
 ## Introduction
-Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licenses, people often engage in this information exchange without full awareness of the consequences that may follow. Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world.  
+Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licenses, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore the government's utilisation of our personal data.  
+Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world.  
 
 ## The Ambiguity of our Data Use
 
