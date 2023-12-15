@@ -1,7 +1,4 @@
 # How the Government Can Use our Personal Data to Spy on Us ?
-v.02  
-14.12.23
-
 ![image](https://github.com/2300181/CS220AU-DP/assets/148568129/2cc8348f-590e-4e6b-b2fb-61242c986a6f)
 
 keywords: digital identity, personal data, mass surveillance, government surveillance, existencial risks
