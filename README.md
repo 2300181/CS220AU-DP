@@ -26,8 +26,8 @@ Instructions on using this GitHub repository as a template for your assignment w
 2. Find illustrations
 
 ## Log
-- 2023-12-14 - I continued to write my essay and tried to find references for existential risks
-- 2023-12-13 - I added my renferences within the text and added things
+- 2023-12-14 - I slighly modified my plan.
+- 2023-12-13 - I made modifications that Kris recommended to me and added my renferences within the text 
 - 2023-12-04 - I continued to write and finished my v.01
 - 2023-12-03 - I searched new sources to my essay and started to write the core
 - 2023-12-01 - We presented to the class what we had done from now. 
