@@ -2,6 +2,8 @@
 v.02  
 14.12.23
 
+![image](https://github.com/2300181/CS220AU-DP/assets/148568129/2cc8348f-590e-4e6b-b2fb-61242c986a6f)
+
 keywords: digital identity, personal data, mass surveillance, government surveillance, existencial risks
 
 ## Introduction
@@ -26,6 +28,8 @@ Officially announced in 2014, China's Social Credit System is a government-run s
 This system consists of evaluating individuals by awarding points based on their behaviour. The credit points accumulated offer advantages, such as an easier access to credit or to employment. On the other hand, those with a low credit score may face sanctions, such as being refused access to certain services such as travel, education, or healthcare. The Chinese government's press agency, Global Times, recently stated that 11 million people had been prevented from flying and 4.5 million from taking the train.  
 
 Data collection is the foundation of this system. Information is gathered from a variety of sources, including government agencies and social media platforms. These data are then used to assign a credit rating. To facilitate the rating process, the Chinese government plans to install more than 600 million surveillance cameras (RTS).  
+
+![image](https://github.com/2300181/CS220AU-DP/assets/148568129/a09463df-de6f-4e2d-a446-a13340e0da93)
 
 Since 2014, China had only been experimenting with this project, but the experiment was considered conclusive: since 2020, it has been applied throughout the country, "subjecting 1.4 billion people to the world's first digital dictatorship" (Bon pour la tête).  
 
@@ -66,6 +70,9 @@ As individuals, there are a number of things we can do to reduce its potential a
 
 
 ## Image credits
+- Image by <a href="https://www.freepik.com/free-photo/security-guard-workspace_40473667.htm#page=2&query=government%20surveillance&position=5&from_view=search&track=ais&uuid=d5b93661-2dec-4925-801e-44688d10daec">Freepik</a>
+- <a href="https://www.freepik.com/free-vector/isometric-public-security-composition-street-scenery-with-walking-people-person-having-his-face-recognized_17102695.htm#query=mass%20surveillance&position=2&from_view=search&track=ais&uuid=a9a6c5f7-5415-44ce-ada4-9b68ed11ea61">Image by macrovector</a> on Freepik
+
 
 ## References
 -	Redden, A. (2023, October 10). Companies are collecting your personal data. Here’s what you need to know. Euronews. https://www.euronews.com/next/2023/08/14/companies-are-collecting-your-personal-data-heres-what-to-know  
