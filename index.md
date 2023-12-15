@@ -1,7 +1,7 @@
 # How the Government Can Use our Personal Data to Spy on Us ?
 ![image](https://github.com/2300181/CS220AU-DP/assets/148568129/2cc8348f-590e-4e6b-b2fb-61242c986a6f)
 
-keywords: digital identity, personal data, mass surveillance, government surveillance, existencial risks
+**keywords:** digital identity, personal data, mass surveillance, government surveillance, existencial risks
 
 ## Introduction
 Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licenses, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore the government's utilisation of our personal data.  
