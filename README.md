@@ -22,21 +22,21 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. Find references for existential risks
+1. Find references for existential risks and continue to write this part.
 2. Find illustrations
 
 ## Log
 - 2023-12-14 - I slighly modified my plan.
-- 2023-12-13 - I made modifications that Kris recommended to me and added my renferences within the text 
-- 2023-12-04 - I continued to write and finished my v.01
-- 2023-12-03 - I searched new sources to my essay and started to write the core
-- 2023-12-01 - We presented to the class what we had done from now. 
-- 2023-11-24 - I started to create my plan and find sources that are accurate.
-- 2023-11-10 - We did a little presentation of what we did and what we have to do.
-- 2023-11-09 - I found my new subject.
-- 2023-11-08 - I did some research on the subject I wanted to choose and found the article.
-- 2023-11-03 - We discussed how to create the content we'll put in our essay (how to use pictures and licence...).
+- 2023-12-13 - I made modifications that Kris recommended to me and added my references within the text.
+- 2023-12-04 - I continued to write and finished my v.01.
+- 2023-12-03 - I searched new references to my essay and started to write the core.
+- 2023-12-01 - We shared with the class the progress we've made so far.
+- 2023-11-24 - I started to create my plan and found reliable references such as documentaries.
+- 2023-11-10 - We gave a brief presentation, sharing what we've accomplished and our upcoming tasks.
+- 2023-11-09 - I've selected a new topic for my project.
+- 2023-11-08 - I made research on the topic I intended to choose and discovered a relevant article.
+- 2023-11-03 - We discussed the process of creating content for our essay, such as using images and understanding licensing requirements.
 - 2023-10-27 - We discussed how to approach our subject and how to analyse it properly, for example with the Agile Project Management.
 - 2023-10-20 - We set up the GiHub accounts with a good password and created two repositories. And Kris explained how to edit it and personalise it. I also shared the subject I wanted to choose.
-- 2023-10-19 - I watched the third video as Kris asked us.
+- 2023-10-19 - I watched the third video as Kris had requested.
 - 2023-10-13 - I went to the introduction class and the week 2 seminar where Kris explained the assignment brief and introduced us to the visitor and residents method for us to analyse our engagement with the web with.
