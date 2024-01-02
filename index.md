@@ -47,12 +47,19 @@ According to the New York Times, "the number of countries with political disinfo
 ### China
 Discrimination against a specific group is already apparent in China. This discrimination concerns people who are not sufficiently loyal to the Communist Party, but also people of other religions, such as the Uighurs, who are predominantly Muslim.   
 
-Human rights groups estimate that China has imprisoned more than a million Uighurs against their will in recent years in what the state calls "re-education camps", and sentenced hundreds of thousands to prison sentences (BBC Africa). According to the French documentary, members of this community can be sent to concentration camps simply by buying a Koran. China has been accused of committing crimes against humanity, and even genocide, according to many governments, including the Canadian Parliament, which has recognised the Uighur genocide. (Génocide ouïghour : cheminement d’un projet colonial, Dilnur Reyhan). Aaron Peskin, Chairman of the Supervisory Board, compares it to the Nazi regime.
+Human rights groups estimate that China has imprisoned more than a million Uighurs against their will in recent years in what the state calls "re-education camps", and sentenced hundreds of thousands to prison sentences (BBC Africa). According to the French documentary, members of this community can be sent to concentration camps simply by buying a Koran. China has been accused of committing crimes against humanity, and even genocide, according to many governments, including the Canadian Parliament, which has recognised the Uighur genocide. (Génocide ouïghour : cheminement d’un projet colonial, Dilnur Reyhan). Aaron Peskin, Chairman of the Supervisory Board, compares it to the Nazi regime.  
+
+This mass surveillance can amplify this discrimination by identifying Uyghurs and sending them to camps.
 
 ### Israel
 A more current example of mass surveillance is Israel, which in 2016 launched the "Blue Wolf" technology. In an article of the France Palestine Solidarity Association, it is said that this technology captures images of Palestinians and then matches them with a database held by the Israeli army and intelligence services. Using facial recognition, the Israeli government can identify any individual of Palestinian origin. We are aware of the ongoing genocide in Palestine. Facial recognition could therefore potentially be used as a tool by the government to eliminate all Palestinians identified by surveillance cameras, thereby contributing to the eradication of this community.  
 
 ### Existencial risk?
+In his thesis titled "Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards" Dr. Nick Bostrom explores various perspectives on risks that could lead to human extinction. One that particularly captures our attention is the "Repressive Totalitarian Global Regime." Dr. Bostrom discusses the possibility of an “intolerant world government”, based on mistaken religious or ethical convictions.  
+
+This notion can be linked with the concrete example of China's social credit system. Dr. Bostrom suggests that the formation of such a global government could arise from a small group of individuals controlling the first superintelligence and determining its objectives. If the superintelligence were to suddenly emerge and become powerful enough to take control of the world, the posthuman world might only reflect the idiosyncratic values of the owners or designers of that superintelligence.  
+
+Depending on the nature of these values, such a scenario could be considered an existential threat, thus posing a significant risk to our existence.  
 
 
 ## Conclusion
