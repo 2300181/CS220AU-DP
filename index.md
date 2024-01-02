@@ -90,5 +90,6 @@ As individuals, there are a number of things we can do to reduce its potential a
 -	Alba, D., & Satariano, A. (2019, September 26). At least 70 countries have had disinformation campaigns, study finds. The New York Times. https://www.nytimes.com/2019/09/26/technology/government-disinformation-cyber-troops.html  
 -	Ouïghours en Chine : qui sont-ils et pourquoi Pékin est-il accusé de génocide ? (2022, May 30). BBC News Afrique. https://www.bbc.com/afrique/monde-61583982 
 - REYHAN Dilnur, « Génocide ouïghour : cheminement d’un projet colonial », Monde chinois, 2021/1 (N° 65), p. 9-22. https://www.cairn.info/revue-monde-chinois-2021-1-page-9.htm  
--	Blue Wolf, l’application utilisée par Israël pour espionner les Palestiniens en Cisjordanie occupée. (n.d.). Association France Palestine Solidarité. https://www.france-palestine.org/Blue-Wolf-l-application-utilisee-par-Israel-pour-espionner-les-Palestiniens-en   
+-	Blue Wolf, l’application utilisée par Israël pour espionner les Palestiniens en Cisjordanie occupée. (n.d.). Association France Palestine Solidarité. https://www.france-palestine.org/Blue-Wolf-l-application-utilisee-par-Israel-pour-espionner-les-Palestiniens-en
+-	Bostrom, N. (2002). Existential risks: analyzing human extinction scenarios and related hazards. https://ora.ox.ac.uk/objects/uuid:827452c3-fcba-41b8-86b0-407293e6617c/download_file?file_format=application%2Fpdf&safe_filename=Existential%2Brisks%3A%2Banalyzing%2Bhuman%2Bextinction%2Bscenarios%2Band%2Brelated%2Bhazards&type_of_work=Journal+article 
 
