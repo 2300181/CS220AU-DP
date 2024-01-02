@@ -26,6 +26,7 @@ Instructions on using this GitHub repository as a template for your assignment w
 2. Find illustrations
 
 ## Log
+- 2024-01-02 - I continued to write the essay. I completed both the self-assessment and the peer-assesment.
 - 2023-12-14 - I slighly modified my plan.
 - 2023-12-13 - I made modifications that Kris recommended to me and added my references within the text.
 - 2023-12-04 - I continued to write and finished my v.01.
