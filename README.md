@@ -22,11 +22,11 @@ Once the above items are completed, fill out the `checklist.md` file, download i
 Instructions on using this GitHub repository as a template for your assignment will be provided in class. Seek clarification if anything is unclear.
 
 ## Tasks
-1. Find references for existential risks and continue to write this part.
-2. Find illustrations
+1. Send the work to the teacher
 
 ## Log
-- 2024-01-02 - I continued to write the essay. I completed both the self-assessment and the peer-assesment.
+- 2024-01-02 - I continued to write the essay and finished the v.02. I completed both the self-assessment and the peer-assesment. I checked the grammar of my essay.
+- 2023-12-15 - Kris gave another feedback to improve our work.
 - 2023-12-14 - I slighly modified my plan.
 - 2023-12-13 - I made modifications that Kris recommended to me and added my references within the text.
 - 2023-12-04 - I continued to write and finished my v.01.
