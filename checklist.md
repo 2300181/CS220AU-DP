@@ -21,6 +21,6 @@ In the `assessment.md` file:
 - [x] I have reviewed the marking rubric
 - [ ] I completed my self-assessment table and summarized my progress in around a 250-word paragraph
 - [x] I filled out my peer-assessment table and added around 250-word feedback provided by a classmate in my group
-- [ ] I have provided feedback for at least one student in my group after reviewing the marking rubric
+- [x] I have provided feedback for at least one student in my group after reviewing the marking rubric
 
 **The student registration number of the student I provided feedback for is: 2300193**
