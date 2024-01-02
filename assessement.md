@@ -44,6 +44,11 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 | 2.2       |     |     |     |     |  o  |
 | 3.1       |     |     |     |     |  o  |
 
+I find that my work is comprehensive and addresses the question effectively. I attempted to employ an academic writing style without making it too formal, in order for the reader to fully understands my thoughts despite the essay's length. I followed the other student’s feedback to incorporate more transitions between paragraphs for a smoother reading.  
+I gradually progressed in my work to avoid delivering an average work due to a lack of time. I believe I managed my time well, as I succeeded in completing a first version before the holidays.  
+In addressing my question, I tried to incorporate several concrete examples, although linking them to an existential risk was challenging. Nevertheless, I managed to find a reference, but I relied on my imagination for examples such as the social credit system in China to explain my reasoning and its connection to my question.  
+I attempted to use illustrations to depict my content but opted for only three to maintain a seamless reading experience.
+
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
 
