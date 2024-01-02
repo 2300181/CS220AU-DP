@@ -1,42 +1,45 @@
 # How the Government Can Use our Personal Data to Spy on Us ?
 ![image](https://github.com/2300181/CS220AU-DP/assets/148568129/2cc8348f-590e-4e6b-b2fb-61242c986a6f)
 
-**keywords:** digital identity, personal data, mass surveillance, government surveillance, existencial risks
+**keywords:** digital identity, personal data, mass surveillance, government surveillance, manipulation, existencial risks
 
 ## Introduction
-Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licenses, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore the government's utilisation of our personal data.  
-Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world.  
+Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licences, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore the government's utilisation of our personal data. 
 
+Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine.  
+This research raises crucial questions about the limits of privacy in an increasingly connected world.  
+  
+  
 ## The Ambiguity of our Data Use
 
-Personal data includes details such as a person's name, age or e-mail address, and can be used to identify an individual. Each country generally has its own legislation regulating data collection. According to an article from The Conversation, most governments claim to use our personal data for research purposes, “leading to new knowledge about health, diseases and effective services to promote and support the development of individuals and communities”. Particularly in the context of the pandemic, where the use of personal data enabled many countries to map the spread of the virus. 
+Personal data includes details such as a person's name, age, or e-mail address and can be used to identify an individual. Each country generally has its own legislation regulating data collection. According to an article from The Conversation, most governments claim to use our personal data for research purposes, “leading to new knowledge about health, diseases, and effective services to promote and support the development of individuals and communities." Particularly in the context of the pandemic, where the use of personal data enabled many countries to map the spread of the virus.
 
 However, this practice can quickly become confusing. It is worth mentioning the Facebook-Cambridge Analytica scandal in 2018, where data collected without user consent was used to profile and target voters for the benefit of former US President Donald Trump during his victorious 2016 presidential campaign.  
-The documentary film “The Great Hack” available on Netflix thoroughly analyses this scandal, shedding light on the potential dangers to democracy and human rights posed by unregulated data collection.  
+The documentary film “The Great Hack”, available on Netflix, thoroughly analyses this scandal, shedding light on the potential dangers to democracy and human rights posed by unregulated data collection.
 
-It should be noted that this problem is not limited to a single company, but also governments, which use companies to obtain personal data. A good example is the US government, which collects personal data from its citizens.  
-According to an article published in Sciences et Avenir, a French popular science magazine, many government agencies sign contracts with private companies to collect personal data. The article mentions collaborations such as between the Defence Intelligence Agency and LexisNexis, as well as agreements between the Navy and a company called Sayari Analytics. The US government's purchases reveal sensitive data on millions of people, such as private life, social class, and political opinions. This demonstrates that governments can use our personal data for purposes other than those often proclaimed to be "for our own good".  
+It should be noted that this problem is not limited to a single company but also to governments, which use companies to obtain personal data. A good example is the US government, which collects personal data from its citizens.  
+According to an article published in Sciences et Avenir, a French popular science magazine, many government agencies sign contracts with private companies to collect personal data. The article mentions collaborations such as those between the Defence Intelligence Agency and LexisNexis, as well as agreements between the Navy and a company called Sayari Analytics. The US government's purchases reveal sensitive data on millions of people, such as private life, social class, and political opinions. This demonstrates that governments can use our personal data for purposes other than those often proclaimed to be "for our own good".  
 
-However, our attention will shift to a specific country, China, which utilizes companies for surveillance purposes, potentially compromising certain rights.
+However, our attention will shift to a specific country, China, which utilises companies for surveillance purposes, potentially compromising certain rights.
 
 ## China & the Social Credit System
 ### What it Consists
 Officially announced in 2014, China's Social Credit System is a government-run system to monitor and evaluate the conduct of individuals and companies aimed at "creating a more harmonious and stable society by encouraging positive behaviour and discouraging negative behaviour" (HROne).    
 
-This system consists of evaluating individuals by awarding points based on their behaviour. The credit points accumulated offer advantages, such as an easier access to credit or to employment. On the other hand, those with a low credit score may face sanctions, such as being refused access to certain services such as travel, education, or healthcare. The Chinese government's press agency, Global Times, recently stated that 11 million people had been prevented from flying and 4.5 million from taking the train.  
+This system consists of evaluating individuals by awarding points based on their behaviour. The credit points accumulated offer advantages, such as easier access to credit or to employment. On the other hand, those with a low credit score may face sanctions, such as being refused access to certain services such as travel, education, or healthcare. The Chinese government's press agency, Global Times, recently stated that 11 million people had been prevented from flying and 4.5 million from taking the train.  
 
 Data collection is the foundation of this system. Information is gathered from a variety of sources, including government agencies and social media platforms. These data are then used to assign a credit rating. To facilitate the rating process, the Chinese government plans to install more than 600 million surveillance cameras (RTS).  
 
 ![image](https://github.com/2300181/CS220AU-DP/assets/148568129/a09463df-de6f-4e2d-a446-a13340e0da93)
 
-Since 2014, China had only been experimenting with this project, but the experiment was considered conclusive: since 2020, it has been applied throughout the country, "subjecting 1.4 billion people to the world's first digital dictatorship" (Bon pour la tête).  
+Since 2014, China has only been experimenting with this project, but the experiment was considered conclusive: since 2020, it has been applied throughout the country, "subjecting 1.4 billion people to the world's first digital dictatorship" (Bon pour la tête).  
 
 ### An Abuse of Power
-Also called "digital totalitarianism”, this system brings considerable consequences. The Chinese government's data collection and constant surveillance create an oppressive atmosphere, strongly reminiscent of a dystopia that closely resembles George Orwell's book, 1984. Individuals with poor credit can be deprived of certain fundamental rights, such as access to healthcare, constituting an abuse of government power. This system therefore discriminates people with poor credit.  
+Also called "digital totalitarianism”, this system has considerable consequences. The Chinese government's data collection and constant surveillance create an oppressive atmosphere, strongly reminiscent of a dystopia that closely resembles George Orwell's book, 1984. Individuals with poor credit can be deprived of certain fundamental rights, such as access to healthcare, constituting an abuse of government power. Therefore, this system discriminates people with poor credit.  
 
 Concerns have been raised about the possibility of the government using this system to target and discriminate against individuals or groups based on their political beliefs or other personal characteristics. In the French documentary “Tous surveillés : 7 milliards de suspects”, this system is purportedly implemented with the intention of "promoting communist morality, even in the most remote areas.".   
 
-In the documentary, they interviewed Bextiyar Tursun, a Chinese resident. He said that many technologies have been created over the years, including police cars, which were equipped with machines that could capture conversations from a distance. That's why, every time a police car drove by, he stopped his conversation with his friend. Similarly, to talk about politics, Bextiyar would drive up to 50km outside the city in mountains with friends.  
+In the documentary, they interviewed Bextiyar Tursun, a Chinese resident. He said that many technologies have been created over the years, including police cars, which were equipped with machines that could capture conversations from a distance. That's why, every time a police car drove by, he stopped his conversation with his friend. Similarly, to talk about politics, Bextiyar would drive up to 50 kilometres outside the city in the mountains with friends.  
 
 This proves that the government exploits this mass surveillance to identify and repress individuals who are not sufficiently loyal to the Communist Party, particularly with the omnipresence of hundreds of millions of surveillance cameras. This reality creates a climate of fear and propaganda. The ability to identify individuals easily, whether on social networks or in everyday life, makes it easier to convert certain people, as the Facebook-Cambridge Analytica scandal demonstrated.  
 
@@ -46,33 +49,43 @@ According to the New York Times, "the number of countries with political disinfo
 
 ## Where Can This Lead Us?
 ### China
-Discrimination against a specific group is already apparent in China. This discrimination concerns people who are not sufficiently loyal to the Communist Party, but also people of other religions, such as the Uighurs, who are predominantly Muslim.   
+Discrimination against a specific group is already apparent in China. This discrimination concerns not only people who are not sufficiently loyal to the Communist Party, but also people of other religions, such as the Uighurs, who are predominantly Muslim.   
 
 Human rights groups estimate that China has imprisoned more than a million Uyghurs against their will in recent years in what the state calls "re-education camps", and sentenced hundreds of thousands to prison sentences (BBC Africa). According to the French documentary, members of this community can be sent to concentration camps simply by buying a Koran. China has been accused of committing crimes against humanity, and even genocide, according to many governments, including the Canadian Parliament, which has recognised the Uyghur genocide. (Génocide ouïghour : cheminement d’un projet colonial, Dilnur Reyhan). Aaron Peskin, Chairman of the Supervisory Board, compares it to the Nazi regime.  
 
 This mass surveillance can amplify this discrimination by identifying Uyghurs and sending them to camps.
 
 ### Israel
-A more current example of mass surveillance is Israel, which in 2016 launched the "Blue Wolf" technology. In an article of the France Palestine Solidarity Association, it is said that this technology captures images of Palestinians and then matches them with a database held by the Israeli army and intelligence services. Using facial recognition, the Israeli government can identify any individual of Palestinian origin. We are aware of the ongoing genocide in Palestine. Facial recognition could therefore potentially be used as a tool by the government to eliminate all Palestinians identified by surveillance cameras, thereby contributing to the eradication of this community.  
+A more current example of mass surveillance is Israel, which in 2016 launched the "Blue Wolf" technology. In an article by the France Palestine Solidarity Association, it is said that this technology captures images of Palestinians and then matches them with a database held by the Israeli army and intelligence services. Using facial recognition, the Israeli government can identify any individual of Palestinian origin. We are aware of the ongoing genocide in Palestine. Facial recognition could therefore potentially be used as a tool by the government to eliminate all Palestinians identified by surveillance cameras, thereby contributing to the eradication of this community.  
 
-### Existencial risk?
+### Existencial risk
 In his thesis titled "Existential Risks: Analyzing Human Extinction Scenarios and Related Hazards" Dr. Nick Bostrom explores various perspectives on risks that could lead to human extinction. One that particularly captures our attention is the "Repressive Totalitarian Global Regime." Dr. Bostrom discusses the possibility of an “intolerant world government”, based on mistaken religious or ethical convictions.  
 
-This notion can be linked with the concrete example of China's social credit system. Dr. Bostrom suggests that the formation of such a global government could arise from a small group of individuals controlling the first superintelligence and determining its objectives. If the superintelligence were to suddenly emerge and become powerful enough to take control of the world, the posthuman world might only reflect the idiosyncratic values of the owners or designers of that superintelligence.  
+This notion can be linked with the concrete example of China's social credit system. Dr. Bostrom suggests that the formation of such a global government could arise from a small group of individuals controlling the first superintelligence and determining its objectives. If superintelligence were to suddenly emerge and become powerful enough to take control of the world, the posthuman world might only reflect the idiosyncratic values of the owners or designers of that superintelligence.  
 
 Depending on the nature of these values, such a scenario could be considered an existential threat, thus posing a significant risk to our existence.  
 
+This mass surveillance, originally intended to promote the "good," could degenerate due to government convictions. Indeed, let's imagine that China uses its mass surveillance for the benefit of the Communist Party and spreads this influence worldwide. With its propaganda and the collected personal data, one can imagine a global government taking control over everyone and eliminating its opponents. This bears a striking resemblance to George Orwell's dystopia in 1984.  
 
+Even though this hypothesis is quite dystopian and negative, many signs lead us to believe that it could genuinely happen.
+
+  
 ## Conclusion
-The widespread use of personal data by governments for surveillance purposes raises major concerns about privacy, individual rights and the potential risks of abuse of power.  
-Regulations must be introduced to regulate the way governments collect, store and use personal data. Without appropriate measures, mass surveillance can easily lead to dystopian scenarios where privacy becomes a relic of the past and political manipulation flourishes.
+The widespread use of personal data by governments for surveillance purposes raises major concerns about privacy, individual rights, and the potential risks of abuse of power.  
+
+As demonstrated by the Facebook-Cambridge Analytica scandal, which made it possible to target voters in favour of former US President Donald Trump, the use of our personal data can influence our thoughts and beliefs.  
+However, the exploitation of our personal data and the implementation of mass surveillance can create an atmosphere of fear that not only influences but also constrains people's convictions and beliefs, as is the case with China's social credit system. The latter forces citizens to adhere to the government's communist ideas.  
+Unfortunately, there is also the worrying case of Israel, which uses its "Blue Wolf" technology to identify Palestinians and eliminate them.  
+
+Therefore, even though our personal data can be put to good use, some people holding power, particularly governments, can exploit it for their own ends.
 
 ### Recommendations
-As individuals, there are a number of things we can do to reduce its potential abuse: 
--	Be aware of the privacy policies of the online platforms we use
--	Favour security options such as two-factor authentication
--	Encourage the introduction of stricter regulations on the collection and use of data by governments
+Regulations must be introduced to regulate the way governments collect, store and use personal data. Without appropriate measures, mass surveillance can easily lead to scenarios where privacy becomes a relic of the past and political manipulation flourishes.  
 
+As individuals, there are a number of things we can do to reduce its potential abuse: 
+-	Be aware of the privacy policies of the online platforms we use;
+-	Favour security options, such as two-factor authentication;
+-	Encourage the introduction of stricter regulations on the collection and use of data by governments.
 
 ## Image credits
 - Image by <a href="https://www.freepik.com/free-photo/security-guard-workspace_40473667.htm#page=2&query=government%20surveillance&position=5&from_view=search&track=ais&uuid=d5b93661-2dec-4925-801e-44688d10daec">Freepik</a>
@@ -93,4 +106,3 @@ As individuals, there are a number of things we can do to reduce its potential a
 - REYHAN Dilnur, « Génocide ouïghour : cheminement d’un projet colonial », Monde chinois, 2021/1 (N° 65), p. 9-22. https://www.cairn.info/revue-monde-chinois-2021-1-page-9.htm  
 -	Blue Wolf, l’application utilisée par Israël pour espionner les Palestiniens en Cisjordanie occupée. (n.d.). Association France Palestine Solidarité. https://www.france-palestine.org/Blue-Wolf-l-application-utilisee-par-Israel-pour-espionner-les-Palestiniens-en
 -	Bostrom, N. (2002). Existential risks: analyzing human extinction scenarios and related hazards. https://ora.ox.ac.uk/objects/uuid:827452c3-fcba-41b8-86b0-407293e6617c/download_file?file_format=application%2Fpdf&safe_filename=Existential%2Brisks%3A%2Banalyzing%2Bhuman%2Bextinction%2Bscenarios%2Band%2Brelated%2Bhazards&type_of_work=Journal+article 
-
