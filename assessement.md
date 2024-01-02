@@ -38,21 +38,25 @@ Using the marking rubric, I've assessed my own progress: <!-- move the symbols i
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |     |     |     |
+| 1.1       |     |     |     |     |  o  |
 | 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 2.1       |     |     |     |     |  o  |
+| 2.2       |     |     |     |     |  o  |
+| 3.1       |     |     |     |     |  o  |
 
 ## Peer-assessment
 Another student in my group provided feedback on my work as follows: <!-- move the symbols in the table below -->
 
 | Criterion | 40- | 40+ | 50+ | 60+ | 70+ | 
 |-----------|:---:|:---:|:---:|:---:|:---:|
-| 1.1       |     |     |  o  |     |     |
+| 1.1       |     |     |     |     |  o  |
 | 1.2       |     |     |     |  o  |     |
-| 2.1       |     |     |  o  |     |     |
-| 2.2       |     |     |     |  o  |     |
-| 3.1       |     |  o  |     |     |     |
+| 2.1       |     |     |     |     |  o  |
+| 2.2       |     |     |     |     |  o  |
+| 3.1       |     |     |     |     |  o  |
 
-Feedback given by: <!-- add student number and date -->
+**Feedback given by: 2300278, 01/02/2024**
+
+In my opinion, the essay provides a thorough exploration of the complexities of personal data use by governments, but also many relevant examples like the Facebook-Cambridge Analytica scandal in 2018. I also liked the fact that she advised us to further explore the topic by watching documentary films such as The Great Hack. From a more general perspective, I think the essay follows a well-structured plan which makes it clear for us to understand.
+If I were to suggest improvements, I would maybe say that it could be worth making the writing a bit more concise and brief. I could also add that it would be nice to put a bit more transition phrases or words in between paragraphs for a better flow.
+Overall I thought it was a very interesting essay, not to mention easy to review as she kept progressing on it very regularly.
