@@ -65,6 +65,9 @@ This notion can be linked with the concrete example of China's social credit sys
 
 Depending on the nature of these values, such a scenario could be considered an existential threat, thus posing a significant risk to our existence.  
 
+![image](https://github.com/2300181/CS220AU-DP/assets/148568129/9d0894d1-b55a-4d4f-97f9-1d7e175b9418)
+
+
 This mass surveillance, originally intended to promote the "good," could degenerate due to government convictions. Indeed, let's imagine that China uses its mass surveillance for the benefit of the Communist Party and spreads this influence worldwide. With its propaganda and the collected personal data, one can imagine a global government taking control over everyone and eliminating its opponents. This bears a striking resemblance to George Orwell's dystopia in 1984.  
 
 Even though this hypothesis is quite dystopian and negative, many signs lead us to believe that it could genuinely happen.
@@ -90,7 +93,7 @@ As individuals, there are a number of things we can do to reduce its potential a
 ## Image credits
 - Image by <a href="https://www.freepik.com/free-photo/security-guard-workspace_40473667.htm#page=2&query=government%20surveillance&position=5&from_view=search&track=ais&uuid=d5b93661-2dec-4925-801e-44688d10daec">Freepik</a>
 - <a href="https://www.freepik.com/free-vector/isometric-public-security-composition-street-scenery-with-walking-people-person-having-his-face-recognized_17102695.htm#query=mass%20surveillance&position=2&from_view=search&track=ais&uuid=a9a6c5f7-5415-44ce-ada4-9b68ed11ea61">Image by macrovector</a> on Freepik
-
+- Image by <a href="https://www.freepik.com/free-photo/front-view-man-holding-world-globe_43568700.htm#query=world%20government&position=3&from_view=search&track=ais&uuid=75b284b8-a17c-4d80-a6e5-69d2f4e34cdd">Freepik</a>
 
 ## References
 -	Redden, A. (2023, October 10). Companies are collecting your personal data. Here’s what you need to know. Euronews. https://www.euronews.com/next/2023/08/14/companies-are-collecting-your-personal-data-heres-what-to-know  
