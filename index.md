@@ -1,16 +1,15 @@
-# How the Government Can Use our Personal Data to Spy on Us ?
+# How Can the Government Use our Personal Data to Spy on Us ?
 ![image](https://github.com/2300181/CS220AU-DP/assets/148568129/2cc8348f-590e-4e6b-b2fb-61242c986a6f)
 
-**keywords:** digital identity, personal data, mass surveillance, government surveillance, manipulation, existencial risks
+**keywords:** digital identity, personal data, mass surveillance, government surveillance, manipulation, existential risks
 
 ## Introduction
 Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licences, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore the government's utilisation of our personal data. 
 
-Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine.  
-This research raises crucial questions about the limits of privacy in an increasingly connected world.  
+Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world.  
   
   
-## The Ambiguity of our Data Use
+## The Ambiguity Linked to How our Data Is Used
 
 Personal data includes details such as a person's name, age, or e-mail address and can be used to identify an individual. Each country generally has its own legislation regulating data collection. According to an article from The Conversation, most governments claim to use our personal data for research purposes, “leading to new knowledge about health, diseases, and effective services to promote and support the development of individuals and communities." Particularly in the context of the pandemic, where the use of personal data enabled many countries to map the spread of the virus.
 
@@ -51,7 +50,7 @@ According to the New York Times, "the number of countries with political disinfo
 ### China
 Discrimination against a specific group is already apparent in China. This discrimination concerns not only people who are not sufficiently loyal to the Communist Party, but also people of other religions, such as the Uighurs, who are predominantly Muslim.   
 
-Human rights groups estimate that China has imprisoned more than a million Uyghurs against their will in recent years in what the state calls "re-education camps", and sentenced hundreds of thousands to prison sentences (BBC Africa). According to the French documentary, members of this community can be sent to concentration camps simply by buying a Koran. China has been accused of committing crimes against humanity, and even genocide, according to many governments, including the Canadian Parliament, which has recognised the Uyghur genocide. (Génocide ouïghour : cheminement d’un projet colonial, Dilnur Reyhan). Aaron Peskin, Chairman of the Supervisory Board, compares it to the Nazi regime.  
+Human rights groups estimate that China has imprisoned more than a million Uyghurs against their will in recent years in what the state calls "re-education camps", and sentenced hundreds of thousands to prison sentences (BBC Africa). According to the French documentary, members of this community can be sent to concentration camps simply for buying a Koran. China has been accused of committing crimes against humanity, and even genocide, according to many governments, including the Canadian Parliament, which has recognised the Uyghur genocide. (Génocide ouïghour : cheminement d’un projet colonial, Dilnur Reyhan). Aaron Peskin, Chairman of the Supervisory Board, compares it to the Nazi regime.  
 
 This mass surveillance can amplify this discrimination by identifying Uyghurs and sending them to camps.
 
