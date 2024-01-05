@@ -4,11 +4,9 @@
 **keywords:** digital identity, personal data, mass surveillance, government surveillance, manipulation, existential risks
 
 ## Introduction
-Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licences, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore the government's utilisation of our personal data. 
+Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licences, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore the government's utilisation of our personal data. Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world.  
+  
 
-Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world.  
-  
-  
 ## The Ambiguity Linked to How our Data Is Used
 
 Personal data includes details such as a person's name, age, or e-mail address and can be used to identify an individual. Each country generally has its own legislation regulating data collection. According to an article from The Conversation, most governments claim to use our personal data for research purposes, “leading to new knowledge about health, diseases, and effective services to promote and support the development of individuals and communities." Particularly in the context of the pandemic, where the use of personal data enabled many countries to map the spread of the virus.
