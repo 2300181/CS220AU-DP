@@ -1,6 +1,5 @@
 # How Can the Government Use our Personal Data to Spy on Us ?
-![image](https://github.com/2300181/CS220AU-DP/assets/148568129/2cc8348f-590e-4e6b-b2fb-61242c986a6f)
-
+<p align="center"> <img width="'400" src="assets/img/security-guard-workspace.jpg"> </p> 
 
 **keywords:** digital identity, personal data, mass surveillance, government surveillance, manipulation, existential risks
 
