@@ -62,6 +62,7 @@ This notion can be linked with the concrete example of China's social credit sys
 
 Depending on the nature of these values, such a scenario could be considered an existential threat, thus posing a significant risk to our existence.  
 
+<p align="center"> <img width="'400" src="assets/img/isometric_public_security_illustration.jpg"> </p> 
 ![image](https://github.com/2300181/CS220AU-DP/assets/148568129/9d0894d1-b55a-4d4f-97f9-1d7e175b9418)
 
 
