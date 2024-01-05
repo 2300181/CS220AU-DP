@@ -1,6 +1,7 @@
 # How Can the Government Use our Personal Data to Spy on Us ?
 ![image](https://github.com/2300181/CS220AU-DP/assets/148568129/2cc8348f-590e-4e6b-b2fb-61242c986a6f)
 
+
 **keywords:** digital identity, personal data, mass surveillance, government surveillance, manipulation, existential risks
 
 ## Introduction
@@ -62,8 +63,7 @@ This notion can be linked with the concrete example of China's social credit sys
 
 Depending on the nature of these values, such a scenario could be considered an existential threat, thus posing a significant risk to our existence.  
 
-![image](https://github.com/2300181/CS220AU-DP/assets/148568129/9d0894d1-b55a-4d4f-97f9-1d7e175b9418)
-
+<p align="center"> <img width="'400" src="assets/img/front-view-man-holding-world-globe.jpg"> </p> 
 
 This mass surveillance, originally intended to promote the "good," could degenerate due to government convictions. Indeed, let's imagine that China uses its mass surveillance for the benefit of the Communist Party and spreads this influence worldwide. With its propaganda and the collected personal data, one can imagine a global government taking control over everyone and eliminating its opponents. This bears a striking resemblance to George Orwell's dystopia in 1984.  
 
