@@ -18,7 +18,10 @@ My portfolio includes the following components, along with their respective cont
 3. **portfolio overview** (10%): provides a succinct description of my portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
 
 ## Tasks
-1. Send the work to the teacher
+1. Correct all the suggestions made by the teacher
+2. Work  on the little details that can be improved
+3. Check the grammar with QuillBot
+4. Send the work
 
 ## Log
 - 2024-01-02 - I continued to write the essay and finished the v.02. I completed both the self-assessment and the peer-assesment. I checked the grammar of my essay.
