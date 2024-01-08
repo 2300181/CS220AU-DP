@@ -19,12 +19,15 @@ My portfolio includes the following components, along with their respective cont
 
 ## Tasks
 1. Correct all the suggestions made by the teacher
-2. Work  on the little details that can be improved
+2. Work on the little details that can be improved
 3. Check the grammar with QuillBot
 4. Send the work
 
 ## Log
-- 2024-01-02 - I continued to write the essay and finished the v.02. I completed both the self-assessment and the peer-assesment. I checked the grammar of my essay.
+- 2024-01-08 - 
+- 2024-01-06 - I corrected all the suggestions made by the teacher and I checked the grammar of my essay. I also worked on the little details that could be improved. 
+- 2024-01-05 - I corrected some of the suggestions made by the teacher and started a v.03.
+- 2024-01-02 - I continued to write the essay and finished the v.02. I completed both the self-assessment and the peer-assesment. I checked the grammar of my essay. I sent the work to Kris to see what could be improved.
 - 2023-12-15 - Kris gave another feedback to improve our work.
 - 2023-12-14 - I slighly modified my plan.
 - 2023-12-13 - I made modifications that Kris recommended to me and added my references within the text.
