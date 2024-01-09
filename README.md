@@ -18,8 +18,7 @@ My portfolio includes the following components, along with their respective cont
 3. **portfolio overview** (10%): provides a succinct description of my portfolio, along with a list of tasks to do (Tasks) and those already completed (Log) in this `README.md` file
 
 ## Tasks
-1. 3. Check the grammar with QuillBot
-4. Send the work via FASER
+Everything's done.
 
 ## Log
 - 2024-01-09 - I have refined my essay by changing a few details to make it smoother to read. I checked the grammar of both the essay and the README file with QuillBot. I finished the final version of my essay.
