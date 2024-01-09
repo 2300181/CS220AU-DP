@@ -21,7 +21,7 @@ My portfolio includes the following components, along with their respective cont
 Everything's done.
 
 ## Log
-- 2024-01-09 - I have refined my essay by changing a few details to make it smoother to read. I checked the grammar of both the essay and the README file with QuillBot. I finished the final version of my essay.
+- 2024-01-09 - I have refined my essay by changing a few details to make it smoother to read. I checked the grammar of both the essay and the README file with QuillBot. I finished the final version of my essay and sent the checklist file via FASER.
 - 2024-01-08 - I carefully read my essay again and checked the grammar of both the self-assessment and the peer-assessment.
 - 2024-01-06 - I corrected all the suggestions made by the teacher (references, sentences, personnalised my portfolio overview), and I checked the grammar of my essay. I also worked on the little details that could be improved. I finished v.03. 
 - 2024-01-05 - I corrected some of the suggestions made by the teacher (changed sentences, used different words, deleted unnacessaru extra line breaks) and started a v.03.
