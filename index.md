@@ -4,9 +4,9 @@
 **keywords:** digital identity, personal data, mass surveillance, government surveillance, manipulation, existential risks
 
 ## Introduction
-Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licences, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore how some governments use the personal data of their citizens. Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world.  
+Nowadays, our increasing online engagement leads most individuals to expose some of their personal information to the world. Whether sharing with friends on social networks, accidentally agreeing to give information through website cookies, or providing information to the government through documents like driver's licences, people often engage in this information exchange without full awareness of the consequences that may follow. In this essay, we will explore how can some governments use the personal data of their citizens. Although we are aware that the government exploits our data for a variety of purposes, it is interesting to explore the depth of how our personal data can actually be used by the government, well beyond what we might initially imagine. This research raises crucial questions about the limits of privacy in an increasingly connected world.  
 
-We will begin our discussion by addressing prevalent challenges in the West. Then, we will delve into the concerning issues present in China. Lastly, we will turn our attention to the concerning situation in Israel, where similarly noteworthy challenges persist. Through this, we aim to gain a nuanced understanding of the diverse issues across different countries that can somehow affect us.
+We will begin our discussion by addressing a significant issue in the West. Then, we will delve into those present in China. Lastly, we will turn our attention to the situation in Israel, where similar problems persist. Our objective is to gain a nuanced understanding of the diverse issues with our personal data across different countries that can somehow affect us.
 
 ## The Ambiguity Linked to How our Data Is Used
 
@@ -16,7 +16,7 @@ However, this practice can quickly become confusing. It is worth mentioning the 
 
 It should be noted that this problem is not limited to a single company but also to governments, which use companies to obtain personal data. A good example is the US government, which collects personal data from its citizens. According to an article published in Sciences et Avenir[^4], a French popular science magazine, many government agencies sign contracts with private companies to collect personal data. The article mentions collaborations such as those between the Defence Intelligence Agency and LexisNexis, as well as agreements between the Navy and a company called Sayari Analytics. The US government's purchases reveal sensitive data on millions of people, such as private life, social class, and political opinions. This demonstrates that governments can use our personal data for purposes other than those often proclaimed to be "for our own good".  
 
-However, our attention will shift to a specific country, China, which utilises companies for surveillance purposes, potentially compromising certain rights.
+This serves as a modest illustration of potential issues faced by Western countries, but our focus will shift to China, a more significant example of how both companies and the government can leverage personal data, potentially compromising the rights of certain citizens.
 
 ## China & the Social Credit System
 ### What it Consists
@@ -51,14 +51,14 @@ In his thesis titled "Existential Risks: Analyzing Human Extinction Scenarios an
 
 <p align="center"> <img width="'400" src="assets/img/front-view-man-holding-world-globe.jpg"> </p> 
 
-This mass surveillance, originally intended to promote the "good," could degenerate due to government convictions. Indeed, let's imagine that China uses its mass surveillance for the benefit of the Communist Party and spreads this influence worldwide. With its propaganda and the amassed personal data, one can envision an Orwellian future where a global government seizes control over everyone and eradicates its adversaries. Even though this hypothesis is quite dystopian and negative, many signs lead us to believe that it could genuinely happen.
+This mass surveillance, originally intended to promote the "good," could degenerate due to government convictions. Let's imagine that China uses its mass surveillance for the benefit of the Communist Party and spreads this influence worldwide. With its propaganda and the amassed personal data, one can envision an Orwellian future where a global government seizes control over everyone and eradicates its adversaries. Even though this hypothesis is quite dystopian and negative, many signs lead us to believe that it could genuinely happen.
   
 ## Conclusion
 The widespread use of personal data by governments for surveillance purposes raises major concerns about privacy, individual rights, and the potential risks of abuse of power.  
 
-The Facebook Cambridge Analytica scandal serves as a reminder that concerns about personal data are not exclusive to Chinese citizens but extend to individuals in democratic countries like the United States. As demonstrated by this scandal, which made it possible to target voters in favour of former US President Donald Trump, the use of our personal data can influence and shape our thoughts and beliefs. However, the exploitation of our personal data, coupled with the implementation of mass surveillance, can create an environment of fear that not only influences but also constrains people's convictions and beliefs. It is the case with China's social credit system, which forces citizens to align with the government's communist ideas. Unfortunately, similar apprehensions arise in Israel, where the deployment of the "Blue Wolf" technology raises serious concerns. While typically employed to identify Palestinians, the government utilises it to eliminate them.  
+The Facebook Cambridge Analytica scandal serves as a reminder that concerns about personal data are not exclusive to Chinese citizens but extend to individuals in democratic countries like the United States. As demonstrated by this scandal, the use of our personal data can influence and shape our thoughts and beliefs. However, the exploitation of our personal data, coupled with the implementation of mass surveillance, can create an environment of fear that not only influences but also constrains people's convictions and beliefs. It is the case with China's social credit system, which forces citizens to align with the government's communist ideas. Unfortunately, similar apprehensions arise in Israel, where the deployment of the "Blue Wolf" technology raises serious concerns. While typically employed to identify Palestinians, the government utilises it to eliminate them.  
 
-These instances highlight the broader implications of technological surveillance on privacy, security, and the manipulation of political landscapes. Therefore, even though our personal data can be put to good use, some people holding power, particularly governments, can exploit it for their own ends.
+These instances highlight the broader implications of technological surveillance on privacy, security, and the manipulation of political landscapes. Many countries may be affected, whether in America, the Middle East, or East Asia. We might therefore wonder whether Europe might not be the next continent to be affected, especially if we take into account Russia, which is a country far from democracy. Even though our personal data can be put to good use, some people holding power, particularly governments, can exploit it for their own ends.
 
 ### Recommendations
 Regulations must be introduced to regulate the way governments collect, store, and use personal data. Without appropriate measures, mass surveillance can easily lead to scenarios where privacy becomes a relic of the past and political manipulation flourishes.  
@@ -67,11 +67,11 @@ As individuals, there are a number of things we can do to reduce its potential a
 -	Be aware of the privacy policies of the online platforms we use;
 -	Favour security options, such as two-factor authentication;
 -	Encourage the introduction of stricter regulations on the collection and use of data by governments;
--	Be more cautious about how we use social medias.
+-	Use social medias with greater caution.
 
-For Chinese citizens, the recommendations are more complex as they live under the China's social system, but here are some:
+For Chinese citizens, the recommendations are more complex because of China's social system, but here are some suggestions:
 - Be wary of public Wi-Fi;
-- Be mindful of social media activity and don't share too much information about oneself;
+- Be mindful of social media activity and don't share too much information;
 - Regularly update privacy settings;
 - Stay informed about laws to understand your rights regarding your personal data.
 
